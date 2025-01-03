@@ -1,4 +1,4 @@
- # BGEKI / BGE READER
+ # BGE-KI 
 
 Entwicklung fehlerfreier, präziser maschineller Übersetzungen juristischer Texte. 
 Automatisiertes Glossar, Index, Inhaltsverzeichnisse, Zusammenfassungen in weiteren Sprachen und in einfacher Sprache folgen bald :-) 
