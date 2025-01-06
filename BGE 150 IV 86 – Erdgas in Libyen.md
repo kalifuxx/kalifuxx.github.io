@@ -1,14 +1,28 @@
 ---
-title: "150 IV 86 – Erdgas in Libyen
-tags: [Strafrecht, passive Bestechung fremder Amtsträger, Art.322 septies Abs. 2 StGB, Internationale Korruption, OECD, Gehilfenschaft, pacte corruptif, corruption passive d'agents publics étrangers; complicité, Muammar al-Gaddafi, Libyen, Schweiz, Norwegen]
-date: 2023-10-30
+title: "150 IV 86 – Erdgas in Libyen"
+tags: 
+  - Strafrecht
+  - passive Bestechung fremder Amtsträger
+  - Art.322 septies Abs. 2 StGB
+  - Internationale Korruption
+  - OECD
+  - Gehilfenschaft
+  - pacte corruptif
+  - corruption passive d'agents publics étrangers
+  - complicité
+  - Muammar al-Gaddafi
+  - Libyen
+  - Schweiz
+  - Norwegen
+date: "2023-10-30"
 description: "Übersetzung, KI, traduction"
 original_language: "Französisch"
 translation_language: "Deutsch"
 category: "Strafrecht"
-source: [ATF 150 IV 86 - ATF 7B_78/2022 du 30 octobre 2023](https://entscheide.weblaw.ch/cache.php?link=BGE-150-IV-86&sel_lang=de)
----
----
+source: 
+  - "ATF 150 IV 86 - ATF 7B_78/2022 du 30 octobre 2023"
+  - "https://entscheide.weblaw.ch/cache.php?link=BGE-150-IV-86&sel_lang=de"
+
 
 
 ## BGE 150 IV 86 - Erdgas in Libyen
