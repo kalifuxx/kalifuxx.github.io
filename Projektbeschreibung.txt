@@ -1,0 +1,44 @@
+Projektbeschreibung: Zwei Websites für juristische Inhalte und Open-Source-Veröffentlichungen
+
+1. Statische, akademische Website:
+
+    Was? Eine minimalistische, textlastige Website mit Fokus auf akademische Nutzer und Open-Source-Machine-Learning-Forschung.
+    Inhalt? Sammlung von Gerichtsentscheidungen (BGEs) und hochwertigen Übersetzungen. Diese Inhalte werden in einem Wiki-ähnlichen Format dargestellt, mit einfacher Navigation und integrierter Suchfunktion.
+    Warum? Wissenschaftlern und Forschern weltweit soll eine präzise, zugängliche und strukturierte Datenquelle bereitgestellt werden.
+    Wie? Umsetzung mit Academic Pages (Hugo) und Hosting über GitHub Pages (kostenlos, einfach, Markdown-basiert).
+    Ziel? Förderung der Open-Source-Kultur und Bereitstellung hochwertiger juristischer Inhalte zur Unterstützung von Forschung und Entwicklung.
+    Open-Source-Community erweitern:
+        Förderung des Projekts durch Zusammenarbeit mit Forschern, Juristen und Open-Source-Entwicklern.
+
+
+2. Website für Laien mit Grundlagen-Dokumenten:
+
+    Was? Eine benutzerfreundliche, visuell ansprechende Website für rechtliche Grundlagen und Informationen.
+    Inhalt? Vereinfachte Dokumente in verschiedenen Sprachen (Spanisch, Portugiesisch, Russisch, Englisch) zu Themen wie Strafrecht, Legalität und Zugang zur Justiz in der Schweiz.
+    Warum? Laien sollen grundlegende rechtliche Informationen leicht verstehen und darauf zugreifen können.
+    Wie? Umsetzung mit WordPress oder Webflow, unterstützt durch Grafiken und CSS-Design. Fokus auf intuitive Nutzerführung und Mehrsprachigkeit.
+    Ziel? Erhöhung des Bewusstseins und Zugangs zu rechtlichen Informationen, insbesondere für vulnerable Gruppen wie Frauen auf der Strasse oder Betroffene von Gewalt..
+
+
+Nächste Schritte zur Umsetzung:
+
+   1.  Statische Website für Akademiker:
+        Inhalte in Markdown vorbereiten (gerne auch bestehende BGEs einpflegen).
+        Academic Pages-Template aufsetzen und mit GitHub Pages verbinden.
+        Suchfunktion aktivieren und automatische Verlinkungen zwischen Inhalten konfigurieren.
+
+    Benutzerfreundliche Laien-Website:
+        Designentwurf mit WordPress oder Webflow starten.
+        Multilinguale Inhalte übersetzen und mit CSS-Heavy-Designs (z. B. Infografiken) ansprechend gestalten.
+        Verlinkungen zu Hilfsressourcen und praktischen Anwendungen hinzufügen.
+
+Zukünftige Ziele (Optionale Erweiterungen):
+
+    Automatisierte Übersetzung mit GPT:
+        Einrichtung eines Übersetzungs-Workflows mit OpenAI API und Middleware (z. B. Zapier).
+        Übersetzungen von rechtlichen Dokumenten in große Sprachmengen skalieren.
+
+    Interaktive Suchfunktionen:
+        Integration semantischer Such-APIs (z. B. mit GPT oder Algolia), um Nutzern eine kontextbezogene Suche zu ermöglichen.
+
+
